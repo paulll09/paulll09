@@ -1,16 +1,88 @@
-## Hi there 👋
 
-<!--
-**paulll09/paulll09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Hola, soy Paul Aquino
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10B981&width=435&lines=Full+Stack+Developer;Founder+de+AQ+Tech;React+%2B+Tailwind+%2B+PHP;Creando+soluciones+reales" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://aqtech.com">
+    <img src="https://img.shields.io/badge/Website-AQ_Tech-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:aquinopaul2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🚀 Sobre Mí
+
+Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones modernas y escalables. Como fundador de **AQ Tech**, me especializo en transformar ideas de negocio en productos digitales de alto impacto, combinando un diseño UI/UX premium con una arquitectura backend robusta.
+
+
+
+### 🛠 Tech Stack
+
+**Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+**Backend:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Herramientas:**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulll09&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=10b981&icon_color=34d399" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulll09&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=10b981" alt="Top Langs" />
+</div>
+
+---
+
+### 🏆 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏸 Club del Bosque Pádel</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-19-blue" />
+        <img src="https://img.shields.io/badge/Tailwind-Pro_UI-teal" />
+      </div>
+      <br />
+      <p>Sistema integral de reservas con pagos online (Mercado Pago), panel administrativo y diseño premium.</p>
+      <a href="https://github.com/paulll09/ClubDelBosque">Ver Repositorio</a>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 AQ Tech Landing</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Astro-Fast-orange" />
+        <img src="https://img.shields.io/badge/Performance-100%25-green" />
+      </div>
+      <br />
+      <p>Sitio corporativo de alto rendimiento para mostrar servicios de desarrollo de software.</p>
+      <a href="#">Ver Repositorio</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=paulll09&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
