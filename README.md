@@ -45,15 +45,6 @@ Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones modern
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulll09&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=10b981&icon_color=34d399" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulll09&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=10b981" alt="Top Langs" />
-</div>
-
----
-
 ### 🏆 Proyectos Destacados
 
 <table>
