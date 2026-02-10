@@ -67,7 +67,7 @@ Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones modern
       </div>
       <br />
       <p>Sitio corporativo de alto rendimiento para mostrar servicios de desarrollo de software.</p>
-      <a href="#">Ver Repositorio</a>
+      <a href="https://github.com/paulll09/AQ-Tech">Ver Repositorio</a>
     </td>
   </tr>
 </table>
