@@ -72,7 +72,7 @@ Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones modern
       <br />
       <p>Sistema integral de reservas de canchas con pagos online vía Mercado Pago, panel administrativo y diseño premium.</p>
       <div align="center">
-        <a href="https://github.com/paulll09/ClubDelBosque">📁 Ver Repositorio</a>
+       <a href="https://clubdelbosquepadel.com">🌐 Ver Sitio</a> · <a href="https://github.com/paulll09/ClubDelBosque">📁 Ver Repositorio</a>
       </div>
     </td>
   </tr>
