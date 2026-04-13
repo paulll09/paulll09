@@ -67,8 +67,23 @@ Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones modern
       <a href="https://github.com/paulll09/AQ-Tech">Ver Repositorio</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🍺 Bulgaria Bar</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-Vite-61DAFB" />
+        <img src="https://img.shields.io/badge/Supabase-Realtime-3ECF8E" />
+        <img src="https://img.shields.io/badge/WhatsApp-Orders-25D366" />
+      </div>
+      <br />
+      <p>Menú digital con carrito y pedidos vía WhatsApp, control horario, compartir ubicación GPS y panel de administración en tiempo real.</p>
+      <a href="https://bulgariabar.com">Ver Sitio</a> · <a href="https://github.com/paulll09/bulgaria-bar">Ver Repositorio</a>
+    </td>
+    <td width="50%">
+      <!-- Espacio para próximo proyecto -->
+    </td>
+  </tr>
 </table>
-
 ---
 
 <div align="center">
