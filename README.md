@@ -1,8 +1,8 @@
-# 👨‍💻 Hola, soy Paul Aquino
+ # 👨‍💻 Hola, soy Paul Aquino
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10B981&width=435&lines=Full+Stack+Developer;Founder+de+AQ+Tech;React+%
-  2B+Supabase+%2B+PHP;Creando+soluciones+reales" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2310B981&width=435&lines=Full+Stack+Developer;Founder+de+AQ+Tech;Reac
+  t+%2B+Supabase+%2B+PHP;Creando+soluciones+reales" alt="Typing SVG" />
   </div>
 
   <div align="center">
@@ -20,12 +20,6 @@
 
   Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones modernas y escalables. Como fundador de **AQ Tech**, me especializo en
   transformar ideas de negocio en productos digitales de alto impacto, combinando un diseño UI/UX premium con una arquitectura backend robusta.
-
-  ---
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=paulll09&show_icons=true&theme=tokyonight&hide_border=true" />
-  </div>
 
   ---
 
@@ -50,6 +44,7 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
   ---
 
@@ -128,4 +123,3 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=paulll09&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </div>
-
