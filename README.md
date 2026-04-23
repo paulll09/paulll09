@@ -90,6 +90,20 @@ Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones modern
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">🍔 Burgers Boss</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Astro-Fast-orange" />
+        <img src="https://img.shields.io/badge/Performance-100%25-green" />
+      </div>
+      <br />
+      <p align="center">Sistema de gestion de pedidos para local Gastronomico.</p>
+      <div align="center">
+        <a href="https://burgersboss.com.ar">🌐 Ver Sitio</a> · <a href="https://github.com/paulll09/BurgersBoss">📁 Ver Repositorio</a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
