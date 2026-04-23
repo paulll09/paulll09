@@ -50,7 +50,7 @@ Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones modern
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🍺 Bulgaria Bar</h3>
+      <h3 align="center">🍴 Bulgaria Bar</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/React-Vite-61DAFB" />
         <img src="https://img.shields.io/badge/Supabase-Realtime-3ECF8E" />
@@ -98,7 +98,8 @@ Soy un **Desarrollador Full Stack** apasionado por construir aplicaciones modern
         <img src="https://img.shields.io/badge/Performance-100%25-green" />
       </div>
       <br />
-      <p align="center">Sistema de gestion de pedidos para local Gastronomico.</p>
+      <p align="center">Menú digital y panel de administración para hamburguesería. Desarrollado con React + Vite + Supabase + Tailwind CSS. Gestión de pedidos en tiempo real,
+  análisis de ventas, control de gastos, cierre de caja diario y sistema de pedidos por WhatsApp. Desplegado en Hostinger.</p>
       <div align="center">
         <a href="https://burgersboss.com.ar">🌐 Ver Sitio</a> · <a href="https://github.com/paulll09/BurgersBoss">📁 Ver Repositorio</a>
       </div>
