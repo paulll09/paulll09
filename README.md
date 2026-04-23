@@ -1,8 +1,7 @@
  # 👨‍💻 Hola, soy Paul Aquino
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2310B981&width=435&lines=Full+Stack+Developer;Founder+de+AQ+Tech;Reac
-  t+%2B+Supabase+%2B+PHP;Creando+soluciones+reales" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2310B981&width=435&lines=Full+Stack+Developer;Founder+de+AQ+Tech;React+%2B+Supabase+%2B+PHP;Creando+soluciones+reales" alt="Typing SVG" />
   </div>
 
   <div align="center">
